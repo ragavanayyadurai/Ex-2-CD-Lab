@@ -32,8 +32,8 @@
 7.	Compile that file with C compiler and verify the output.
 # PROGRAM
 ```
-Developed by: Abishek Xavier
-Register no: 212223230218
+Developed by: Ragavendran A
+Register no: 212222230114
 ```
 ```
 #include <stdio.h>
